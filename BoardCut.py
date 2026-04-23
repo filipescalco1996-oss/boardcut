@@ -17,7 +17,7 @@ from PySide6.QtWidgets import (
 from PySide6.QtCore import Qt, Signal, QObject, QTimer
 
 # --- CONFIGURAÇÕES GERAIS ---
-VERSION = "0.0.1b"
+VERSION = "0.0.2b"
 APP_NAME = "BoardCut"
 COMPANY = "MarReis Studios"
 
